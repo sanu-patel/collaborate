@@ -10,4 +10,7 @@ public class test{
 		
 		str.length();
 		
+
+		sysout("sanu edits");
+		sysout("hello world");
 }
